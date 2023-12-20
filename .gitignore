@@ -1,4 +1,10 @@
-skripsiSentiment/
-Dokumen/
+__pycache__
+.ipynb_checkpoints
+model2
+skripsiSentiment
+Dokumen
 *.txt
 *.zip
+kesediaan Bimbingan2.jpg
+kesediaan Bimbingan.jpg
+SKRIPSI.zip
